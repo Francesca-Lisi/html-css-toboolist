@@ -16,3 +16,16 @@ header{
 h1{
   display: inline-block;
 }
+
+header img, header h1{
+  vertical-align: middle;
+}
+
+main{
+  background-color: #F6F8FA;
+}
+
+.container{
+  margin: 30px auto;
+  width: 70%;
+}
